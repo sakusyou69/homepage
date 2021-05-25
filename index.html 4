@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="utf-8">
+    </head>
+    <body>
+        <script>
+            const cart=['Kindle Fire HD 10',19980,1];
+            
+            console.log(cart[1]);
+        </script>
+    </body>
+</html>
